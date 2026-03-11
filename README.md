@@ -7,13 +7,6 @@ El objetivo del proyecto es documentar y estructurar la solución del problema p
 
 ---
 
-## Autor
-- **Miño Cabrera Julian Alejandro**
-- **Diaz Rodriguez Deivi Paul**
-- **Bravo Gonzales Norman Davey**
-
----
-
 ## Estructura del Proyecto
 
 ```
@@ -106,3 +99,13 @@ El sistema debe notificar al estudiante cuando su pedido esté listo para recoge
 
 # Licencia
 Este proyecto fue desarrollado con **fines académicos**.
+
+---
+
+## Autores
+- **Miño Cabrera Julian Alejandro**
+- **Diaz Rodriguez Deivi Paul**
+- **Bravo Gonzales Norman Davey**
+
+---
+
