@@ -23,7 +23,9 @@ Proyecto
 ├── historias_usuario
    ├── historia_usuario_1.pdf
    ├── historia_usuario_2.pdf
-   └── historia_usuario_3.pdf
+   ├── historia_usuario_3.pdf
+   └── historia_usuario_4.pdf
+
 ```
 
 ---
@@ -65,12 +67,40 @@ para pasar a recogerlo sin tener que esperar.
 
 ## Historia de Usuario 4
 
-Como personal de la cafetería, quiero ver los pedidos realizados desde la app, 
-para prepararlos con anticipación y organizar mejor el trabajo
+Como estudiante, quiero ver si el menú del día está disponible o agotado, 
+para no perder tiempo en filas innecesarias.
 
 📥 **Descargar Diagrama**
 
-[Descargar Historia de Usuario 3](historias_usuario/historia_usuario_4.pdf)
+[Descargar Historia de Usuario 4](historias_usuario/historia_usuario_4.pdf)
+
+---
+
+# Requerimientos
+
+## RF1 – Visualización del menú
+
+El sistema debe permitir a los estudiantes consultar el menú disponible de 
+los diferentes puntos de venta de la universidad.
+
+---
+
+## RF2 – Realización de pedidos
+
+El sistema debe permitir a los estudiantes seleccionar productos del 
+menú y realizar pedidos desde la aplicación.
+
+---
+
+## RF3 – Confirmación de pedido
+
+El sistema debe confirmar al usuario que el pedido fue registrado correctamente.
+
+---
+
+## RF4 – Notificaciones
+
+El sistema debe notificar al estudiante cuando su pedido esté listo para recoger.
 
 ---
 
