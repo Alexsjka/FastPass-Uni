@@ -70,7 +70,7 @@ para prepararlos con anticipación y organizar mejor el trabajo
 
 📥 **Descargar Diagrama**
 
-[Descargar Historia de Usuario 3](historias_usuario/historia_usuario_3.pdf)
+[Descargar Historia de Usuario 3](historias_usuario/historia_usuario_4.pdf)
 
 ---
 
