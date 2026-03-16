@@ -32,7 +32,7 @@ para decidir qué comida pedir antes de ir a la cafetería.
 
 📥 **Descargar Diagrama**
 
-[Descargar Historia de Usuario 1](historias_usuario/https://lucid.app/lucidchart/af1a846b-8d02-4d57-8e6b-4ac627ac18fa/edit?invitationId=inv_407decb6-d5fe-403a-9bed-f934b032055c)
+[Descargar Historia de Usuario 1](historias_usuario/historia_usuario_1.pdf)
 
 ---
 
